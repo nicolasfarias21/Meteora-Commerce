@@ -1,0 +1,24 @@
+.divs-facilities{
+    display: flex;
+    width: 325px;
+}
+.text-facilities{
+    display: flex;
+    flex-direction: column;
+}
+.div-novidades {
+    width: 355px;
+}
+.small-text{
+    font-size: 13px;
+}
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+.branco{
+    color: white;
+}
